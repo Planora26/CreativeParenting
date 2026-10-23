@@ -1,0 +1,6 @@
+{
+  "name": "Creative Parenting",
+  "description": "An intentional lifestyle and parenting publication offering gentle routines, pediatric-tested nursery essentials, and mindful guidance for calm family living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
